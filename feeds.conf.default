@@ -9,4 +9,3 @@ src-git small https://github.com/kenzok8/small
 src-git helloworld https://github.com/fw876/helloworld
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
 src-git OpenClash https://github.com/vernesong/OpenClash
-src-git lienol https://github.com/Lienol/openwrt-package
